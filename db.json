@@ -1,0 +1,52 @@
+{
+  "populateDropDown": [
+    {
+      "IS_S2_SES_VALUE": "HBSD",
+      "IS_S2_SES_TEXT": "Business School Doctoral"
+    },
+    {
+      "IS_S2_SES_VALUE": "HBSM",
+      "IS_S2_SES_TEXT": "Business School MBA"
+    },
+    {
+      "IS_S2_SES_VALUE": "FAS",
+      "IS_S2_SES_TEXT": "Faculty of Arts & Sciences"
+    },
+    {
+      "IS_S2_SES_VALUE": "GSD",
+      "IS_S2_SES_TEXT": "Graduate School of Design"
+    },
+    {
+      "IS_S2_SES_VALUE": "HGSE",
+      "IS_S2_SES_TEXT": "Graduate School of Education"
+    },
+    {
+      "IS_S2_SES_VALUE": "HSPH",
+      "IS_S2_SES_TEXT": "Harvard Chan School"
+    },
+    {
+      "IS_S2_SES_VALUE": "HDS",
+      "IS_S2_SES_TEXT": "Harvard Divinity School"
+    },
+    {
+      "IS_S2_SES_VALUE": "HKS",
+      "IS_S2_SES_TEXT": "Harvard Kennedy School"
+    },
+    {
+      "IS_S2_SES_VALUE": "HLS",
+      "IS_S2_SES_TEXT": "Harvard Law School"
+    },
+    {
+      "IS_S2_SES_VALUE": "HMS",
+      "IS_S2_SES_TEXT": "Harvard Medical School"
+    },
+    {
+      "IS_S2_SES_VALUE": "NONH",
+      "IS_S2_SES_TEXT": "Non-Harvard"
+    },
+    {
+      "IS_S2_SES_VALUE": "HSDM",
+      "IS_S2_SES_TEXT": "School of Dental Medicine"
+    }
+  ]
+}
